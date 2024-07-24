@@ -1,47 +1,45 @@
-
-<p style="text-align: center;">
-  ## Hi, I'm Mahdi Barati! 👋
-</p>
+<h1 align="center">Hi, I'm Mahdi Barati! 👋</h1>
 
 
-## About Me
+### 📜 About Me
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 📫 How to reach me: [email@example.com](mailto:email@example.com)
+- 🔭 I’m currently working on **Reactjs & ReactNative & Nodejs & Three.js**
+- 
+- 🌱 I’m currently learning **new languages ​​and tools in the field of software development**
+- 
+- 🤔 I’m looking for help with **backend developer**
+- 
+- 📫 How to reach me: **mahdibarati458@gmail.com**
 
-## Skills
+## 👤 Skills
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi-barati&layout=compact&theme=gruvbox&bg_color=141321&hide_border=false)
 
 ### 🛠 Languages and Tools:
 
 
-<div style="display: flex; flex-wrap: wrap; background-color: white; padding: 10px;">
-    <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react" alt="React" style="margin: 5px;"/>
-    <img src="https://img.shields.io/badge/-React%20Native-000000?style=flat&logo=react" alt="React Native" style="margin: 5px;"/>
-    <img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript" alt="JavaScript" style="margin: 5px;"/>
-    <img src="https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js" alt="Node.js" style="margin: 5px;"/>
-    <img src="https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma" alt="Figma" style="margin: 5px;"/>
-    <img src="https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap" alt="Bootstrap" style="margin: 5px;"/>
-    <img src="https://img.shields.io/badge/-HTML-000000?style=flat&logo=html5" alt="HTML" style="margin: 5px;"/>
-    <img src="https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3&logoColor=1572B6" alt="CSS" style="margin: 5px;"/>
-    <img src="https://img.shields.io/badge/-Sass-000000?style=flat&logo=sass" alt="Sass" style="margin: 5px;"/>
-    <img src="https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker" alt="Docker" style="margin: 5px;"/>
-    <img src="https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux" alt="Linux" style="margin: 5px;"/>
-    <img src="https://img.shields.io/badge/-Webpack-000000?style=flat&logo=webpack" alt="Webpack" style="margin: 5px;"/>
+
+
+<div align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1C?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" alt="Webpack" />
 </div>
 
-
-## GitHub Stats
+## 📈 GitHub Stats
 
 ![Mahdi Barati's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahdibaraty&show_icons=true&theme=gruvbox&hide_border=false&bg_color=141321)
 
-## Connect with Me
+## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&link=https://www.linkedin.com/in/your-username/)](https://www.linkedin.com/in/your-username/)
-[![Twitter](https://img.shields.io/twitter/follow/your-username?style=social)](https://twitter.com/your-username)
-
-
-
+My website : 
