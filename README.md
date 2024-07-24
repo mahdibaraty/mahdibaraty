@@ -13,7 +13,7 @@
 
 ## 👤 Skills
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi-barati&layout=compact&theme=gruvbox&bg_color=141321&hide_border=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdibaraty&layout=compact&theme=gruvbox&bg_color=141321&hide_border=false)
 
 ### 🛠 Languages and Tools:
 
